@@ -1,0 +1,11 @@
+{% extends 'base/main.html' %}
+{% block content %}
+
+
+<a href="{% url 'tasks' %}">Back</a>
+<p>Task:{{TaskDetail}}</p>
+<p>Description:{{TaskDetail.description}}</p>
+<p>Completed:{{TaskDetail.complete}}</p>
+<p>Created:{{TaskDetail.created}}</p>
+
+{% endblock content%}
