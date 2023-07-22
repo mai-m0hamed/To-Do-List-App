@@ -5,7 +5,11 @@
 <h3 align="left">This is a simple To-Do List web application built using the Django framework. The project allows users to add, view, edit, delete, and search tasks. Each user can register an account and only view their own tasks.
  you can have a quick tour through our website by playing the following video.
 
-App tour
+<h3>App tour</h3>
+
+
+https://github.com/mai-m0hamed/To-Do-List-App/assets/115077795/9ad314f5-c5e7-46f2-902e-4cc81da9d1c8
+
 
 </h3>
 
